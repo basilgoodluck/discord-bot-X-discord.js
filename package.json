@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot-x-discord",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Discord Bot using Discord js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Basil Goodluck",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.14.0"
+  }
+}
